@@ -1,4 +1,4 @@
-// For java
+<b>For java</b>
 
 Compiling java file
 
@@ -10,7 +10,7 @@ To run
 
 >> java file.name
 
-// For c ++
+<b>For c ++</b>
 
 >> g ++ fileName.cpp
 
