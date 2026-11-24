@@ -1,6 +1,7 @@
 <b>For java</b>
 
-Compiling java file
+Compiling java file 
+\n
 ``` javac file.java ```
 
 Creates .class files
