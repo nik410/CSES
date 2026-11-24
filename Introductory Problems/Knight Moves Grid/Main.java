@@ -33,7 +33,7 @@ class Main{
             for(int i = 0; i < siz; i ++){
                 int blockData[] = q.poll();
 
-                // Check all 4 moves possible
+                // Check all 8 knight moves possible
                 for(int d[]: dir){
                     int newX = d[0] + blockData[0];
                     int newY = d[1] + blockData[1];
