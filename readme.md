@@ -2,14 +2,14 @@
 
 Compiling java file :
 ```bash
-javac file.java
+javac fileName.java
 ```
 
 Creates .class files
 
 To run
 ```bash
-java file.name
+java fileName
 ```
 
 <b>For c ++</b>
